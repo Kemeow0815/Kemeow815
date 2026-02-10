@@ -1,3 +1,4 @@
+![無限進步-无限进步](https://i.p-i.vip/135/20260208-6988282d2139e.gif)
 # 👋 你好，我是筱序二十
 
 欢迎来到我的GitHub主页！我是一名专注于实用工具开发与技术探索的开发者，热衷于通过代码解决实际问题。这里收录了我开发的各类工具、脚本及学习项目，涵盖Python自动化、数据处理等领域，欢迎交流探讨～
@@ -5,7 +6,6 @@
 
 ## 📊 我的GitHub数据
 ![贡献热力图](https://github-readme-activity-graph.vercel.app/graph?username=scfcn&theme=react-dark&hide_border=true&area=true)
-
 ![GitHub 统计概览](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scfcn&theme=tokyonight)  
 ![常用语言分布](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scfcn&theme=tokyonight)
 ![代码提交统计](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scfcn&theme=tokyonight)
@@ -35,4 +35,4 @@
 - 邮箱：[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qxbk@qq.com)  
 
 
-感谢你的访问！如果我的项目对你有帮助，欢迎吝惜star🌟，也欢迎提出issue或PR一起完善～ 😊
+感谢你的访问！如果我的项目对你有帮助，请不要吝惜star🌟，也欢迎提出issue或PR一起完善～ 😊
